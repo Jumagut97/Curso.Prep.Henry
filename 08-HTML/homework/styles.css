@@ -1,0 +1,40 @@
+
+            h1{
+                color:aqua;
+            }
+            h2{
+                color: yellow;
+            }
+            h3{
+                color: blue;
+            }
+            img{
+                width: 400px;
+            }
+            #thirdDiv{
+                height: 600 px; 
+                width: 500px;
+                background-color: darkslategray;
+                padding: 50px;
+                border: 2px dashed black;
+                margin: 0 auto;
+            }
+            .divClass{
+                width: 500px;
+                margin: 0 auto;
+            }
+            #spanId{
+                font-size: 18px;
+                margin: 50px;
+                color: darkolivegreen;
+            }
+            body {
+                height: 1150px;
+                background-color: black;
+                background-image: url(https://duranyork.mx/Archivo/imagen/61086/0/0/40/1);
+                background-repeat:no-repeat;
+                background-position-x:center;
+                background-position-y:center;
+                background-size: 100rem;
+            }
+            
