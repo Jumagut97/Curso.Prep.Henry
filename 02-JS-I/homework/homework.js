@@ -184,7 +184,7 @@ function esPositivo(numero) {
     return("Es positivo");
   }
   else{
-    return("Es Negativo");
+    return("Es negativo");
   }   
 }
 
@@ -249,7 +249,7 @@ function esVocal(letra){
     return("Dato incorrecto");
   }
   if(letra == "a" || letra == "e" || letra == "i" || letra == "o" || letra == "u"){
-    return("Es Vocal");
+    return("Es vocal");
   }
     return("Dato incorrecto");
 }
