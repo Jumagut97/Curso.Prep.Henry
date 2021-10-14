@@ -73,7 +73,7 @@ function tienenMismaLongitud(str1, str2) {
   if(str1.length == str2.length){
     return true;
   }
-    return false;
+  return false;
 }
 
 function menosQueNoventa(num) {
@@ -109,7 +109,7 @@ function esPar(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   if(num % 2 == 0){
-    return(true);
+    return true;
   }
   return false;
 
@@ -176,7 +176,7 @@ function esPositivo(numero) {
     return "Es positivo";
   }
   else{
-    return"Es negativo";
+    return "Es negativo";
   }   
 }
 
@@ -243,7 +243,7 @@ function esVocal(letra){
   if(letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u"){
     return "Es vocal";
   }
-    return "Dato incorrecto";
+  return "Dato incorrecto";
 }
 
 
