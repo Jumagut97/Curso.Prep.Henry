@@ -1,0 +1,7 @@
+Variables: Es una forma qu enos ayuda a alamcenar un valo para usarlo mas tarde.
+Strings: Son cadenas de texto y siempre se definen entre comillas (ejemplo "Hola estoy programando")
+Funciones: Es un conjunto de intrucciones o procedimiento que realiza una tarea o calacula algun valor, para posteriormente invocarla.
+           Las funciones cuentan con argumentos que estos funcionan como una variable que utilizamos al momento de  invocarla.
+           La declaracion return nos sirve para delvolver lo que salga de la funcion
+Declaracion if: La declaracion if nos sive para que nuestra funcion verifique o comprube si se esta cumpliendo con la condicion establecida.
+Valores booleanos: Estos valores provienen de la lógica booleana que solo tiene dos ociones 1 o 0, true o false.
