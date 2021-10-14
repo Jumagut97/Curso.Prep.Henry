@@ -124,7 +124,6 @@ function esImpar(num) {
     return true;
   }
   return false;
-  
 }
 
 function elevarAlCuadrado(num) {
