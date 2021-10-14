@@ -1,0 +1,10 @@
+for: Crea un ciclo ejecutando una funcion hasta que se cumpla una condicion, se compone de la palabra for, seguida de
+     de parentesis () y luego llaves de apertura {}, dentro del parentesis van 3 cosas, primero la variable en la cual 
+     se repetira el ciclo, en segundo tendremos la ezpresion condicional, en la cual seguira sucendiendo hasta que esta
+     se declare false , por ultimo tenemos el incremento de la variable. Las tres declaraciones se separanm por punto 
+     y coma (;).
+Opearadores lógicos: Los operadores logicos(AND, OR y NOT), combinan dos expresione de igualdad y preguntar si alguna de
+                     de las dos es verdadera, si ambas son verdaderas o si ninguna es verdadera.
+&& (AND):Ambas expresiones tinen que ser verdaderas para que se ejecute
+|| (OR): Con que una expresion sea verdadera se ejecutara  
+! (NOT): Hace lo contrario de cada expresion.

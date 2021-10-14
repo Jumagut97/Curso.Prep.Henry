@@ -8,7 +8,7 @@ function obtenerMayor(x, y) {
   if(x > y){
     return x;
   }
-    return y;
+  return y;
 }
 
 function mayoriaDeEdad(edad) {
@@ -18,7 +18,7 @@ function mayoriaDeEdad(edad) {
   if(edad >= 18){
     return"Allowed";
   }
-    return"Not allowed";
+  return "Not allowed";
 }
   
 function conection(status) {
