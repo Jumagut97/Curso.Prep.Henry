@@ -1,0 +1,4 @@
+Arrays: Son objetos similares a las listas, son contenedores de almacenamiento de diferentes tipos de datos, entre
+        ellos encontramos numeros, cadenas de texto, booleanos, funciones otros arrays, etc. 
+        Para construir un array primero declaramos una variable y abrimos corchetes [], dentro de los corchetes 
+        agregamos los datos antes mencionados separados por comas.
