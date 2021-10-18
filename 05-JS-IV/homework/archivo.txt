@@ -1,0 +1,16 @@
+Objetos: Los objetos son contenedores de informacion al igual que las matrices, solo que esto son mas contienen mucha
+         información sobre una cosa, utilizan un concepto llamado clave-valor, la clave es un propiedad del objetos y
+         el valor es el valor de la propiedad. Las claves son unicas en un objeto, solo puede existir una clave con 
+         ese nombre, los valores pueden ser cualquier tipo de dato.
+Propiedades: Las propiedades son las claves de un objeto, es la asociacon entre la clave del objeto y el valor.
+Métodos: Los metodos son funciones guardadas dentreo del valor de una propiedad de un objeto.
+Bucle for...in: Este bucle se utiliza para recoorer cada propiedades de un objeto, la sintaxis es un poco diferente a un
+                bucle for, comienza igual pero entre parentesis declaramos una variable, la palabra clave in y el nombre
+                del objeto.
+Notacion de puntos: Este tipo de notacion nos sirve para acceder a los valores de una propiedad llamando al nombre del
+                    del objeto y la clave. Para ello utilizamos el nombre del objeto seguido de un punto y el nombre de
+                    la clave (objeto.propiedad).
+Notacion de corchetes: Este tipo de notacion es como llamara a un elemento de una matriz. Para ello utilizamos el nombre
+                       del objeto seguido de corchetes [], y dentro de los corchetes emtre comillas colocamos la clave
+                       (objeto["propiedad"]).
+                       
