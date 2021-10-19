@@ -1,0 +1,4 @@
+Prototype: Es un propiedad que tienen las clases para establecer un metodo unico al que puedan acceder todos los objetos
+           de la clase.
+Contructor: Es un metodo especial que se encarga de crear e iniciar un objeto a partir de la clase, solo puede existir un
+            metodo contructor dentro de una clase (ejemplo: contructor([argumentos]){})
