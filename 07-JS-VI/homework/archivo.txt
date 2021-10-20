@@ -1,0 +1,2 @@
+Callbacks: Son funciones con la cacpacidad de tranformar una funcion en el argumento de otra funcion. Estas funciones
+           pueden invocarse en cualquier momento y pasar argumentos dentro de la funcion 
